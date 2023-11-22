@@ -1,6 +1,6 @@
 # Lecture # 6 - POST Requests
 ## SWBAT
-- [ ] Understand how to send a `POST` request
+- [ ] Send a `POST` request using HTML forms and JavaScript
 - [ ] Explain the difference between optimistic and pessimistic rendering
 
 ## Setup
